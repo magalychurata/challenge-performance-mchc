@@ -128,3 +128,5 @@ Te debe mostrar metricas de la ejecución - Ver imagen referencial
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
+
+Mas detalle revisar el archivo README.md
